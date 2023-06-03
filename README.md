@@ -13,6 +13,7 @@ Learn some math basics! Focus only on these topics, then come back later in case
  * [Khan Academy - Linear Algebra](https://www.khanacademy.org/math/linear-algebra)
  * [Khan Academy - Statistics Probability](https://www.khanacademy.org/math/statistics-probability)
  * [Optional: 3Blue1Brown - Essence of Linear Algebra](https://www.3blue1brown.com/essence-of-linear-algebra-page/)
+ * [Optional: Mathematics for Machine Learning and Data Science Specialization](https://www.coursera.org/specializations/mathematics-for-machine-learning-and-data-science?)
  
 ## 2. Learn Python
 
