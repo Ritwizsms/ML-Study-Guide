@@ -14,7 +14,14 @@ Learn some math basics! Focus only on these topics, then come back later in case
  * [Khan Academy - Statistics Probability](https://www.khanacademy.org/math/statistics-probability)
  * [Optional: 3Blue1Brown - Essence of Linear Algebra](https://www.3blue1brown.com/essence-of-linear-algebra-page/)
  * [Optional: Mathematics for Machine Learning and Data Science Specialization](https://www.coursera.org/specializations/mathematics-for-machine-learning-and-data-science?)
- 
+ * [For help in statistics concept](https://www.youtube.com/@statquest)
+
+
+## 1.1. Learn Python API BUILD AND USE(do side by)
+
+* [API BUILD](https://www.youtube.com/watch?v=0sOvCWFmrtA&t=2594s)
+* [API USE](https://www.youtube.com/watch?v=WXsD0ZgxjRw&t=2702s)
+
 ## 2. Learn Python
 
 * [4h Beginner Course](https://youtu.be/rfscVS0vtbw)
